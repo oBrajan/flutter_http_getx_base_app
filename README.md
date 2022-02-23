@@ -1,0 +1,1 @@
+# flutter_http_getx_base_app
